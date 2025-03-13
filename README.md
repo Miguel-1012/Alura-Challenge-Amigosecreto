@@ -1,3 +1,3 @@
 <h1> Alura-Reto-Amigosecreto</h1>
 
--Estado del proyecto: En costruccion.
+-Estado del proyecto: Terminado.
